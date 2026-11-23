@@ -2,7 +2,7 @@
    Keeps a copy of the (encrypted) site so the installed app opens without internet.
    Always tries the network first, so updates arrive as soon as you are online.
    Recitation audio comes from other sites and is never cached here. */
-var CACHE = "qtt-v3";
+var CACHE = "qtt-v4";
 var FILES = [
   "./", "index.html", "payload.bin", "manifest.webmanifest",
   "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png",
